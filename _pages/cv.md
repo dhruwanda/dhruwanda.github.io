@@ -6,4 +6,4 @@ nav: true
 nav_order: 4
 ---
 
-[cv.pdf](/assets/pdf/cv.pdf)
+[resume.pdf](/assets/pdf/resume.pdf){:target="_blank"}
