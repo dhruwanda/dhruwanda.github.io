@@ -16,8 +16,5 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I write long-form pieces on things I find interesting — usually somewhere at the intersection of markets, policy, and how systems actually work in practice rather than how they're supposed to.
-
-Currently working on a piece on India's mental health parity in the insurance system. Earlier this year, I wrote about [silver](/writing/). Some quantitative finance and Bayesian work [on the side](/projects/).
-
-Based in Delhi.
+I spent a few years as a quant researcher, building models to trade markets. Somewhere along the way I realised the part I actually cared about wasn't the model; it was what gets done with it. So I'm positioning myself there now: strategy, product and business analytics, the kind of work where you sit closer to the call being made.
+The rest of my time goes to ultimate frisbee, capoeira, the violin, and a stack of books I'm slowly making my way through. Please feel welcome to reach out.
