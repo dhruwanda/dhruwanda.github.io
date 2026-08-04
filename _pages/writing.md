@@ -9,7 +9,7 @@ nav_order: 2
 A small archive of reports nobody commissioned.
 
 ---
-**Honasa Consumer: Examination of a Turnaround** [<a href="/assets/pdf/honasa_report_00.pdf" target="_blank">pdf</a>] &nbsp;·&nbsp; *2026*
+**Honasa Consumer:  A Teardown of Margin Recovery** [<a href="/assets/pdf/honasa_report_00.pdf" target="_blank">pdf</a>] &nbsp;·&nbsp; *2026*
 
 What Honasa, Mamaearth's parent brand, actually fixed between its worst quarter and its best, and what the disclosures still cannot settle.
 
