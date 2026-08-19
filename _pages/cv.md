@@ -8,4 +8,4 @@ nav_order: 4
 
 [resume.pdf](/assets/pdf/resume.pdf){:target="_blank"}
 
-<small><em>Last updated: August 4, 2026</em></small>
+<small><em>Last updated: August 18, 2026</em></small>
