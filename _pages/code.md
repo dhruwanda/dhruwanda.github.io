@@ -1,12 +1,12 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: code
+permalink: /code/
 nav: true
 nav_order: 3
 ---
 
-Code I've written for fun, or to learn something. All on [GitHub](https://github.com/dhruwanda).
+Things I've built for fun, or to learn something. All on [GitHub](https://github.com/dhruwanda).
 
 ---
 
