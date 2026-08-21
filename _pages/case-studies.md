@@ -9,6 +9,11 @@ nav_order: 2
 A small archive of reports nobody commissioned.
 
 ---
+**smallcase: The Strategy vs You** [<a href="/assets/pdf/smallcase_report_00.pdf" target="_blank">pdf</a>] [<a href="https://strat-vs-user.streamlit.app/" target="_blank">app</a>] &nbsp;·&nbsp; *2026*
+
+Built a portfolio-performance explainability tool that compares an investor's actual outcome with what the smallcase basket would have delivered on the same cash flows. It attributes the gap to price difference, quantity modification and costs. It provides a unified view of performance data, otherwise fragmented across multiple sources.
+
+---
 **Honasa Consumer:  A Teardown of Margin Recovery** [<a href="/assets/pdf/honasa_report_00.pdf" target="_blank">pdf</a>] &nbsp;·&nbsp; *2026*
 
 What Honasa, Mamaearth's parent brand, actually fixed between its worst quarter and its best, and what the disclosures still cannot settle.
