@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 
-A small archive of reports nobody commissioned.
+A small archive of self-commissioned case studies on topics I found worth investigating.
 
 ---
 **smallcase: The Strategy vs You** [<a href="/assets/pdf/smallcase_report_00.pdf" target="_blank">pdf</a>] [<a href="https://strat-vs-user.streamlit.app/" target="_blank">app</a>] &nbsp;·&nbsp; *2026*
