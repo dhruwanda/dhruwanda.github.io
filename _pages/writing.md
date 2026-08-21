@@ -1,7 +1,7 @@
 ---
 layout: page
-title: writing
-permalink: /writing/
+title: case studies
+permalink: /case-studies/
 nav: true
 nav_order: 2
 ---
