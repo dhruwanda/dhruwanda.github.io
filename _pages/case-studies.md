@@ -9,6 +9,11 @@ nav_order: 2
 A small archive of self-commissioned case studies on topics I found worth investigating.
 
 ---
+**AI Agent for Business Performance Investigation** [<a href="https://github.com/dhruwanda/business-performance-agent" target="_blank">code</a>] &nbsp;·&nbsp; *2026*
+
+Built a conversational AI agent to investigate company performance from just a website and a question. It automates financial report discovery and processing, performs calculations, and searches source documents to explain trends and underlying business drivers. Additional tools for market research and news analysis coming soon.
+
+---
 **smallcase: The Strategy vs You** [<a href="/assets/pdf/smallcase_report_00.pdf" target="_blank">pdf</a>] [<a href="https://strat-vs-user.streamlit.app/" target="_blank">app</a>] &nbsp;·&nbsp; *2026*
 
 Built a portfolio-performance explainability tool that compares an investor's actual outcome with what the smallcase basket would have delivered on the same cash flows. It attributes the gap to price difference, quantity modification and costs. It provides a unified view of performance data, otherwise fragmented across multiple sources.
